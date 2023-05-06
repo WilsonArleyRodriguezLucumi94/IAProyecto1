@@ -6,10 +6,7 @@ from tkinter import *
 class GokuSmart:
 
     def __init__(self):
-        #ppal = Tk()
-        #ppal.title("Goku Smart")
-        #ppal.geometry("500x500")
-        # Pygame
+        
         pygame.init()
 
         # tamaño de pygame
